@@ -1,0 +1,8 @@
+proficiency data and data dictionaries
+https://www2.ed.gov/about/inits/ed/edfacts/data-files/index.html
+
+school finance data
+https://www.census.gov/programs-surveys/school-finances/data/tables.html
+
+school finance data dictionary location (format is the same for all years)
+http://library.metatab.org/census.gov-school_finance-1.1.3/index.html
